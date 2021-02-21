@@ -3,6 +3,6 @@ defmodule Mix.Tasks.Main do
 
   import Mnistx
 
-  def run([message | [m2 | _]]) do
+  def run() do
   end
 end
